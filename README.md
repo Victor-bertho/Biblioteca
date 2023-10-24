@@ -1,2 +1,2 @@
 # Biblioteca
-Criação de projeto para teste no github
+'''Criação de projeto com python para teste no github'''
